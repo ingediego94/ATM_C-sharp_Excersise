@@ -12,3 +12,4 @@
 /home/dv/RiderProjects/Cajero/obj/Debug/net8.0/Cajero.pdb
 /home/dv/RiderProjects/Cajero/obj/Debug/net8.0/Cajero.genruntimeconfig.cache
 /home/dv/RiderProjects/Cajero/obj/Debug/net8.0/ref/Cajero.dll
+/home/dv/RiderProjects/Cajero/obj/Debug/net8.0/Cajero.sourcelink.json

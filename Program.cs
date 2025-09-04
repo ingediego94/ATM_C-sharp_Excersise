@@ -3,7 +3,7 @@
     public static void Main(string[] args)
     {
         Console.WriteLine("Welcome to Bancolombia ATM, select your option:");
-        Console.WriteLine("1) Check your balance. \n2) Deposit money \n3) Withdraw money. \n4) Exit");
+        Console.WriteLine("1) Check your balance. \n2) Deposit money \n3) Withdraw money. \n4)Request a loan. \n0) Exit");
         
         int option = int.Parse(Console.ReadLine());
         
@@ -60,19 +60,21 @@
                 Console.WriteLine("-----------------------------");
                 break;
             
-            // To exiting of the program:
             case 4:
-                Console.WriteLine("Option selected: 4) Exit: ");
+                Console.WriteLine("Option selected: 4) Requesting a loan: ");
                 
+                
+                break;
+            
+            // To exiting of the program:
+            case 0:
+                Console.WriteLine("0) Exit. ");
+                Console.WriteLine("Exiting of the system...");
                 
                 Console.WriteLine("-----------------------------");
                 break;
             
-            // case 5:
-            //     Console.WriteLine("Option selected: 1) Check your balance");
-            //     
-            //     
-            //     break;
+
             
             default:
                 Console.WriteLine("");
