@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/diego-v/.nuget/packages/": {}
+    "/home/dv/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/diego-v/Documents/diego_dev/ATM_C-sharp_Excersise/Cajero.csproj",
+      "projectUniqueName": "/home/dv/RiderProjects/Cajero/Cajero.csproj",
       "projectName": "Cajero",
-      "projectPath": "/home/diego-v/Documents/diego_dev/ATM_C-sharp_Excersise/Cajero.csproj",
-      "packagesPath": "/home/diego-v/.nuget/packages/",
-      "outputPath": "/home/diego-v/Documents/diego_dev/ATM_C-sharp_Excersise/obj/",
+      "projectPath": "/home/dv/RiderProjects/Cajero/Cajero.csproj",
+      "packagesPath": "/home/dv/.nuget/packages/",
+      "outputPath": "/home/dv/RiderProjects/Cajero/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/diego-v/.nuget/NuGet/NuGet.Config"
+        "/home/dv/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
